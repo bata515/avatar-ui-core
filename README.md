@@ -1,4 +1,4 @@
-# Avatar UI Core
+# Usagi AI Chat
 
 クラシックなターミナル調のUIコア。チャットUIからCLI統合まで拡張可能なプロジェクト基盤を提供します。
 
